@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">example</string>
+    <string name="textname">Hello</string>
+    <string name="b1">Button1</string>
+    <string name="b2">Button2</string>
+    <string name="b3">Button3</string>
+    <string name="b4">Button4</string>
+</resources>
